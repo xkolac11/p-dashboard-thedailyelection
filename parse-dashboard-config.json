@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://parse-server-reinto-olympia.herokuapp.com/parse",
+      "serverURL": "https://parse-server-reinto-tde.herokuapp.com/parse",
       "appId": "iI3Iz6hDYgYHUty0o1LvgfmJ7kXhoDHZKOgW7o0j",
       "masterKey": "lFjgZykYdwjpQplnxhgKdKSF8g0HUb2sTcGDEfz6",
       "appName": "TheDailyElection"
