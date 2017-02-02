@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://reintosrv2.cloudapp.net:1337/parse",
+      "serverURL": "http://reintosrv2.cloudapp.net:1337",
       "appId": "iI3Iz6hDYgYHUty0o1LvgfmJ7kXhoDHZKOgW7o0j",
       "restApiKey" : "GKKUPNPyoYCdw9tlMuJcHNJFUSXS3YMr3wy0gVsX",
       "masterKey": "lFjgZykYdwjpQplnxhgKdKSF8g0HUb2sTcGDEfz6",
